@@ -65,7 +65,7 @@ func (dt *Flat) HTMLTemplate() string {
       text-shadow: 0 1px 0 white;
     }
     .email-logo {
-      max-height: 50px;
+      max-height: 200px;
     }
     /* Body ------------------------------ */
     .email-body {
